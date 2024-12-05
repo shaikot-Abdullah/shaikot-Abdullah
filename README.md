@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Abdullah Mahamod Shaikot.
+- 👀 I’m interested in ...learning Programming Language. 
+- 🌱 I’m currently learning ...python,R programming.
+- 😄 Pronouns: ...He/Him
